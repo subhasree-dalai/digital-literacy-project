@@ -1,1 +1,7 @@
+Phishing is one of the most common types of cybercrime where attackers trick users into revealing sensitive information such as passwords, OTPs, or bank details. A common example is receiving fake emails or messages that appear to be from banks or trusted organizations.
 
+In one such case, a user received a message claiming that their bank account would be blocked unless they verified their details immediately. The message included a link to a fake website that looked identical to the official bank website. The user entered their login credentials and OTP, after which money was withdrawn from their account.
+
+This incident highlights the importance of being cautious while dealing with online messages and links. Cybercriminals often create urgency to make users act without thinking.
+
+To prevent such incidents, users should always verify the authenticity of messages and avoid clicking on suspicious links. Awareness and careful behavior are key to avoiding cyber threats.
