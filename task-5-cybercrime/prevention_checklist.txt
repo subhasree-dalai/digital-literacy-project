@@ -1,0 +1,8 @@
+1. Do not click on suspicious links or emails
+2. Always verify website URLs before entering details
+3. Never share OTP or banking credentials
+4. Use strong passwords and enable two-factor authentication
+5. Regularly monitor bank transactions
+6. Use official apps for UPI transactions
+7. Report fraud on National Cyber Crime Portal (https://cybercrime.gov.in)
+8. Call helpline number 1930 immediately in case of fraud
